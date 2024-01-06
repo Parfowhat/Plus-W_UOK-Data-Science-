@@ -8,10 +8,6 @@ Welcome to the Hangman game! This simple Python console game allows users to pla
 
 2. Navigate to the project directory.
 
-```bash
-cd hangman-game
-```
-
 3. Run the game.
 
 ```bash
