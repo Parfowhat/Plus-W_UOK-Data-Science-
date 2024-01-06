@@ -6,10 +6,6 @@ Welcome to the Hangman game! This simple Python console game allows users to pla
 
 1. Clone this repository to your local machine.
 
-```bash
-git clone https://github.com/Parfowhat/Class 3 Assignment.git
-```
-
 2. Navigate to the project directory.
 
 ```bash
